@@ -1,11 +1,10 @@
-readme_content = """
 # Hi there, I'm Shumail Khan! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative and efficient solutions. Here's a bit more about me:
 
 ## 🌐 Socials
 - [Twitter](https://twitter.com/raidenhellblade/)
-- [Personal Website](https://artthecrown.unaux.com)
+- [ArtTheCrown](https://artthecrown.unaux.com)
 
 ## 🛠 Technologies & Tools
 
@@ -17,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🚀 Projects
 
-### [Project 1: Awesome Project](https://github.com/ArtTheCrown/Kaizen)
+### [Project 1: Kaizen](https://github.com/ArtTheCrown/Kaizen)
 Kaizen Task Tracker is a personal development application inspired by the Japanese philosophy of Kaizen, which emphasizes continuous improvement through small, consistent actions. This app helps users track daily tasks aimed at self-improvement, promoting a disciplined and growth-oriented lifestyle.
 
 ## 📈 GitHub Stats
@@ -28,12 +27,12 @@ Kaizen Task Tracker is a personal development application inspired by the Japane
 
 ## 📫 How to reach me
 
-- Email: youremail@example.com
+- Email: raidenhellblade@gmail.com
 - LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/raidenhellblade/)
 
 ## 📜 Licenses & Certifications
 
-- [Certification Name](https://example.com)
+- [Not updated yet](https://example.com)
 
 
 ## ⚡ Fun Facts
@@ -45,4 +44,3 @@ Kaizen Task Tracker is a personal development application inspired by the Japane
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
-"""
