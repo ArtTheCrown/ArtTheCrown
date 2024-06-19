@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🚀 Projects
 
-### [Project 1: Kaizen](https://github.com/ArtTheCrown/Kaizen)
+### [Project: Kaizen](https://github.com/ArtTheCrown/Kaizen)
 Kaizen Task Tracker is a personal development application inspired by the Japanese philosophy of Kaizen, which emphasizes continuous improvement through small, consistent actions. This app helps users track daily tasks aimed at self-improvement, promoting a disciplined and growth-oriented lifestyle.
 
 ## 📈 GitHub Stats
