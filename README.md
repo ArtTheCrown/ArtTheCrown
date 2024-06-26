@@ -39,9 +39,7 @@ Kaizen Task Tracker is a personal development application inspired by the Japane
 ## ⚡ Fun Facts
 
 - I love hiking and exploring nature.
-- I'm a coffee enthusiast and love trying out new blends.
-- I enjoy playing chess and solving puzzles in my free time.
-
+- 
 ---
 
 
