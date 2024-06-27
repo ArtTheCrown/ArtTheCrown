@@ -31,10 +31,6 @@ Kaizen Task Tracker is a personal development application inspired by the Japane
 
 - Email: raidenhellblade@gmail.com
 
-## 📜 Licenses & Certifications
-
-- [Not updated yet](https://example.com)
-
 ---
 
 
