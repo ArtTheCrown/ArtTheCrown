@@ -1,4 +1,4 @@
-# Hi there, I'm Shumail Khan! 👋
+# Hi there,
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative and efficient solutions. Here's a bit more about me:
 
